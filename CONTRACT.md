@@ -1,4 +1,4 @@
-# SOFTWARE DEVELOPMENT AGREEMENT
+# ACUERDO DE DESARROLLO DE SOFTWARE
 ## Proyecto: MetricDash UACM
 
 **Identificador del Producto:** mx.edu.uacm.is.slt.ms.metricdash
