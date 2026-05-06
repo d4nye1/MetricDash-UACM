@@ -1,4 +1,4 @@
-# MetricDash UACM
+# ControlMetricasUACM
 
 **Identificador del Producto:** mx.edu.uacm.is.slt.ms.metricdash  
 **Versión Actual:** 1.0  
