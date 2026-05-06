@@ -22,7 +22,7 @@ Dada la naturaleza individual, los roles se ejercen de forma secuencial:
 - **Ofimática:** Google Docs & Sheets (v2026).
 - **IDE:** IntelliJ IDEA 2025.3 / Java SE 25.0.2.
 - **Repositorios:** GitHub (Software) y Google Drive (Documentación).
-- **Comunicación:** Slack (Canales: #gestion, #qa, #datos).
+- **Comunicación:** Discord Telegram
 
 ---
 
